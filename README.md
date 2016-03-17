@@ -1,3 +1,3 @@
 # Testing
 
-> so, would you know git?
+> so, do you know git?
